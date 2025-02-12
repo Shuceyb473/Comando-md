@@ -19,9 +19,9 @@
   <p align="center">
    <!-- Repo Views -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%shueyb%2comando_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Fred1e?label=Followers&style=social"></a>
+ <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/shueyb473?label=Followers&style=social"></a>
 <a href="https://github.com/shueyb 473/shueyb/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/shueyb473/comando-md?&style=social"></a>
-<a href="https://github.com/shueyb473/shueyb/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shueyb473/comando_md?style=social"></a>
+<a href="https://github.com/shueyb473/comando_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shueyb473/comando_md?style=social"></a>
 <a href="https://github.com/shueyb473/comando_md /watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shueyb473/shueyb?label=Watching&style=social"></a>
 <!-- Repo Size -->
   <img src="https://img.shields.io/github/repo-size/shueyb473/shueyb?color=gold&label=Repo%10Size&style=plastic" alt="Repo Size">
@@ -110,7 +110,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 </a></p>
-- <a href="https://github.com/shueyb 473/shueyb-/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/shueyb 473/comando_md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
