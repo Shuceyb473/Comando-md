@@ -1,7 +1,9 @@
 # Comando-md
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=Gold&center=true&width=1000&height=200&lines=comando-+MD+BOT; shueyb" alt="Typing SVG" /></a>
   </p>
-![IMG-20250202-WA0105](https://github.com/user-attachments/assets/123db8ec-a0a8-47a6-98a4-4c55efc610ef)
+<href=![IMG-20250202-WA0105](https://github.com/user-attachments/assets/cffffaa9-9613-42a4-a49f-b077c1dc71bd)
+
+
 
 
 
