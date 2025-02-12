@@ -40,7 +40,7 @@
 
 <p> <b>Connect With me:</b></p>
 <p>
-<a href="https://wa.me/254111869679"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+<a href="https://wa.me/254111869679"> <img src="https://raw.github/shuceyb 473/comando-md.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.instagram.com/fredi.simba.tz"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
   <a href="https://www.facebook.com/profile.php?id=61553209932337"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://github.com/shueyb 473"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="https://twitter.com/fredisimba"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/shueyb 473/comando_md"><b>comando-md</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/shueyb 473/comando-md"><b>comando-md</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 </a></p>
-- <a href="https://github.com/shuceyb 473/comando-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/shuceyb473/comando-md><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
