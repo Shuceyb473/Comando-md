@@ -110,7 +110,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 </a></p>
-- <a href="https://github.com/shueyb 473/comando-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/shuceyb 473/comando-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
