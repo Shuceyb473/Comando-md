@@ -110,7 +110,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 </a></p>
-- <a href="https://github.com/shueyb 473/comando_md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/shueyb 473/comando-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
@@ -122,7 +122,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 ## 𝟚.ᴡᴇʙ sɪᴛᴇ ᴛᴏ ɢᴇᴛ sᴇssɪᴏɴ ᴠɪᴀ ǫʀ & ᴘᴀɪʀ
 
 </a></p>
-- <a href="https://heroku.com/shuceyb sharif "><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧1✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://heroku.com/shuceyb473/comando-md"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧1✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=ferari&logoColor=white" width="240" height="38.45"/></a></p>
 
 ## when option one failed use option two
  
