@@ -21,7 +21,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%shueyb%2comando_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/shueyb473?label=Followers&style=social"></a>
 <a href="https://github.com/shueyb 473/shueyb/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/shueyb473/comando-md?&style=social"></a>
-<a href="https://github.com/shueyb473/comando_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shueyb473/comando-md?style=social"></a>
+<a href="https://github.com/shueyb473/comando_md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shuceyb473/comando-md?style=social"></a>
 <a href="https://github.com/shueyb473/comando_md /watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shueyb473/comando-md?label=Watching&style=social"></a>
 <!-- Repo Size -->
   <img src="https://img.shields.io/github/repo-size/shueyb473/comando-md?color=gold&label=Repo%10Size&style=plastic" alt="Repo Size">
