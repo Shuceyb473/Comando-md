@@ -113,8 +113,8 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 
-</a></p>
-- <a href https![IMG-20250210-WA0099](https://github.com/user-attachments/assets/8bf19ebd-c46c-4ed2-b03e-b8c52d646ec7)
+
+
 #Deploy methods
 #fork my repo
 (https://github.com/Shuceyb473/Comando-md/fork
