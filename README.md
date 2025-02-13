@@ -115,10 +115,9 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 </a></p>
 - <a href https![IMG-20250210-WA0099](https://github.com/user-attachments/assets/8bf19ebd-c46c-4ed2-b03e-b8c52d646ec7)
-href="https://github.com/Shuceyb473/Comando-md/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
-
-
-
+#Deploy methods
+#fork my repo
+(https://github.com/Shuceyb473/Comando-md/fork
 
 
 
